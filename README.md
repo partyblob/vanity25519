@@ -1,4 +1,5 @@
 Thanks to [Catflare](https://github.com/nekoflare) for originally vibecoding this.
+
 🤖 Clanker regurgitation warning: this project was 100% vibecoded. Tests pass, the desired functionality is achieved, and human oversight was involved to ensure it does not produce subtly wrong results (e.g weak / easily guessable keys), but there is no human to attribute a true feat of engineering to.
 
 # Rust X25519 Vanity Key Finder
